@@ -1,4 +1,5 @@
 # git-playground
 
 깃 재미있다
-고양이가 수정
+깃으로 놀아보자
+Let's git it
